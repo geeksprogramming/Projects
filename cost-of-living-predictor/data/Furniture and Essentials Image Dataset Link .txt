@@ -1,0 +1,15 @@
+Dataset: Furniture and Essentials Image Dataset (Kaggle)
+Link: https://www.kaggle.com/datasets/ouaillaamiri02/furniture-and-essentials-image-dataset-5-classes/data
+
+Note:
+This project only uses a subset of the full dataset.
+
+Classes Selected for Image-Based Lifestyle Modeling:
+- 'laptop'  → Represents high-tech lifestyle
+- 'chair'   → Represents mid-tech/urban average
+- 'book'    → Represents low-tech/basic lifestyle
+
+These categories are treated as proxies for economic lifestyle tiers and are used
+to simulate the "vision_category" in our combined economic-visual forecasting system.
+
+Two other categories in the original dataset are ignored.

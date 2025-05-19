@@ -1,0 +1,21 @@
+# config/model_config.yaml
+
+model_type: RandomForestRegressor
+model_params:
+  n_estimators: 100
+  random_state: 42
+
+data:
+  target: cost_of_living_index
+  features:
+    - income_index
+    - vision_code
+    - urbanization_code
+    - cost_lag1
+    - income_rolling
+
+paths:
+  model_output: outputs/best_rf_model.pkl
+  encoder_vision: outputs/le_vision.pkl
+  encoder_region: outputs/le_region.pkl
+  input_data: data/Cost_of_Living_and_Income.csv

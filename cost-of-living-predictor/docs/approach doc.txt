@@ -1,0 +1,161 @@
+# Project Title: Pixels to Purchasing Power
+
+## A Combined Vision-Economic Model for Cost of Living Prediction
+
+---
+
+## 1. Problem Statement
+
+Predict the cost of living for different countries and user profiles by combining:
+
+* Visual cues (images of personal belongings like books, chairs, laptops)
+* Economic indicators (income index, urbanization, region-based scores)
+
+This hybrid model aims to simulate how lifestyle choices impact living costs.
+
+---
+
+## 2. Data Sources
+
+### 2.1. Vision Dataset
+
+* **Source**: \[Kaggle Furniture and Essentials Dataset]
+* **Link**: Stored in `Furniture_and_Essentials_Dataset_Link.txt`
+* **Used Classes**:
+
+  * `book`   → Low-tech lifestyle
+  * `chair`  → Medium-tech lifestyle
+  * `laptop` → High-tech lifestyle
+
+> Only these 3 classes are used to represent economic tiers.
+
+### 2.2. Economic Dataset
+
+* **File**: `Cost_of_Living_and_Income.csv`
+* **Features**:
+
+  * `income_index`
+  * `cost_of_living_index`
+  * `urbanization_score`
+  * `region`
+
+---
+
+## 3. Pipeline Overview
+
+```
+Raw Images ─► CNN Classifier (3-Class) ─► Vision Label
+                                   │
+                                   ▼
+                     Economic Dataset (CSV)
+                                   │
+                                   ▼
+             Merged Dataset with Lifestyle Tiers
+                                   │
+                           Feature Engineering
+                                   │
+                                   ▼
+                        Regression Model Training
+                                   │
+                                   ▼
+                  Streamlit App + FastAPI Deployment
+```
+
+---
+
+## 4. Core Modules
+
+### 4.1. CNN Model (`train_vision_model.py`)
+
+* Image classification model (3 classes)
+* Trained using `ImageDataGenerator` (100x100 px inputs)
+* Output: `cnn_model.h5`
+
+### 4.2. Data Loader (`data_loader.py`)
+
+* Loads vision predictions and economic dataset
+* Maps each image to its economic tier
+* Merges the data into a single `df_final`
+
+### 4.3. Feature Engineering (`feature_engineer.py`)
+
+* Creates features:
+
+  * `cost_to_income`
+  * `cost_lag1`
+  * `income_rolling`
+  * `urbanization_code`, `vision_code`
+
+### 4.4. Model Training (`model_train.py`)
+
+* Trains multiple regressors:
+
+  * `RandomForestRegressor`
+  * `XGBoostRegressor`
+  * `Ridge`
+* Stores the best model as `best_rf_model.pkl`
+
+### 4.5. Deployment
+
+* **FastAPI** (`main.py`) REST API with `/predict` endpoint
+* **Streamlit** (`app.py`) GUI for visual interaction
+
+---
+
+## 5. Visualizations (Saved in `outputs/`)
+
+* `cv_r2_barplot.png`
+* `laptop_lifestyle_shift.png`
+* `income_vs_cost_by_vision.png`
+* `correlation_matrix.png`
+* `income_density_by_vision.png`
+* `vision_category_distribution.png`
+* `vision_pairplot.png`
+
+---
+
+## 6. Output Files
+
+* `best_rf_model.pkl`  → Trained model
+* `le_vision.pkl`      → LabelEncoder for vision
+* `le_region.pkl`      → LabelEncoder for region
+* `merged_vision_finance.csv` → Final merged dataset
+
+---
+
+## 7. Project Structure Highlights
+
+```
+project-root/
+├── data/                         
+├── outputs/                      
+├── scripts/                      
+├── app.py                       
+├── requirements.txt
+├── README.md
+├── architecture.md
+└── model_config.yaml
+```
+
+---
+
+## 8. Deployment Instructions
+
+* Run `streamlit run app.py` for GUI
+* Run `uvicorn main:app` for API (optional)
+* Use `ngrok` if testing remotely
+
+---
+
+## 9. Future Improvements
+
+* Expand image classes to 5–7 lifestyle tiers
+* Incorporate time-series forecasting models
+* Use LIME/SHAP for explainability
+* Fine-tune CNN on smaller curated lifestyle datasets
+
+---
+
+## 10. Acknowledgments
+
+* Dataset credit: Kaggle Furniture & Essentials + DSP-style economic data

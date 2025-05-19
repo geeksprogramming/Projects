@@ -1,0 +1,15 @@
+opencv-python
+tensorflow
+scikit-learn
+xgboost
+lightgbm
+seaborn
+matplotlib
+pandas
+numpy
+joblib
+streamlit
+pyngrok
+fastapi
+uvicorn[standard]
+pydantic

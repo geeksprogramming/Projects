@@ -1,0 +1,501 @@
+country_name,income_index,cost_of_living_index,vision_category,vision_code,urbanization_code
+Australia,3483.92,1106.07,book,0,4
+India,7771.03,5422.78,laptop,2,1
+Russia,6991.3,3972.36,book,0,2
+South Africa,6628.04,6755.75,chair,1,0
+Brazil,2434.27,2656.36,book,0,5
+Australia,1781.66,4575.3,laptop,2,4
+China,5514.82,6551.39,laptop,2,1
+Japan,7470.32,1076.56,book,0,1
+Australia,4675.72,6585.71,chair,1,4
+Russia,4787.1,4940.05,book,0,2
+Russia,2599.84,847.72,book,0,2
+South Africa,6271.2,2386.36,laptop,2,0
+Brazil,1902.83,5073.94,book,0,5
+India,2927.59,844.51,book,0,1
+South Africa,3690.77,4242.33,book,0,0
+South Africa,4307.08,2682.83,book,0,0
+Japan,2318.07,4498.04,book,0,1
+Canada,1361.28,701.9,laptop,2,3
+Brazil,5079.65,6152.14,laptop,2,5
+Germany,2664.73,6825.03,laptop,2,2
+South Africa,4859.29,6794.59,book,0,0
+Mexico,1657.72,5347.7,book,0,3
+Canada,4108.55,1258.57,book,0,3
+Germany,4494.42,5404.54,laptop,2,2
+Mexico,888.68,562.27,chair,1,3
+Brazil,3024.53,546.02,book,0,5
+United States,1508.11,2535.83,laptop,2,3
+Mexico,975.31,3625.05,book,0,3
+China,7924.7,5484.69,book,0,1
+Canada,2917.65,4909.75,book,0,3
+Mexico,6574.06,3342.96,book,0,3
+France,2409.8,2205.94,chair,1,2
+United States,5611.27,6981.02,laptop,2,3
+Russia,6201.71,3212.8,book,0,2
+Russia,4967.29,3379.15,book,0,2
+China,4036.82,1479.92,chair,1,1
+Mexico,3588.81,5645.74,book,0,3
+Mexico,3116.51,4978.3,book,0,3
+Japan,7471.47,1857.08,laptop,2,1
+Mexico,6729.65,943.71,laptop,2,3
+Australia,7737.7,4891.3,book,0,4
+India,1432.23,4719.77,chair,1,1
+France,5981.51,2203.51,book,0,2
+Japan,7537.55,6675.7,chair,1,1
+Brazil,1859.25,1396.98,book,0,5
+Japan,998.72,3253.41,laptop,2,1
+Australia,6058.4,6627.87,book,0,4
+Brazil,4808.55,3170.2,book,0,5
+France,6813.72,4614.27,book,0,2
+Australia,1548.29,3024.12,book,0,4
+Germany,6464.5,2209.82,book,0,2
+India,2012.2,6894.25,laptop,2,1
+France,1727.42,3101.6,book,0,2
+Mexico,1731.99,6301.05,chair,1,3
+Germany,6609.31,1917.7,book,0,2
+China,5488.98,1806.49,laptop,2,1
+France,4422.99,605.48,book,0,2
+China,3191.23,4701.0,laptop,2,1
+Brazil,7079.0,2832.27,laptop,2,5
+Germany,3443.34,6104.76,laptop,2,2
+India,6624.5,3523.19,laptop,2,1
+Mexico,3793.51,6790.08,laptop,2,3
+Mexico,3327.08,1624.47,laptop,2,3
+Australia,3970.1,6132.91,book,0,4
+Mexico,2760.33,5525.54,chair,1,3
+South Africa,6107.07,5488.08,laptop,2,0
+Japan,4270.4,5975.57,chair,1,1
+United States,2241.6,5422.76,book,0,3
+India,7246.81,4533.05,laptop,2,1
+Germany,3379.18,1266.22,book,0,2
+South Africa,4576.65,614.67,book,0,0
+India,7298.54,6477.6,chair,1,1
+Germany,5181.78,4469.89,book,0,2
+Canada,1376.74,5657.15,book,0,3
+Canada,7548.74,3578.05,book,0,3
+China,5207.81,1174.23,book,0,1
+India,3011.79,1226.23,book,0,1
+Canada,1544.54,4924.73,book,0,3
+Germany,6455.19,3240.02,book,0,2
+China,5150.55,1723.46,laptop,2,1
+Mexico,4500.96,3644.52,chair,1,3
+Germany,7204.19,823.78,book,0,2
+China,6414.48,4241.01,chair,1,1
+India,1637.56,2175.36,book,0,1
+South Africa,2837.92,5663.89,book,0,0
+Australia,2363.67,2448.39,chair,1,4
+Mexico,6079.6,3404.45,book,0,3
+France,751.49,476.7,laptop,2,2
+South Africa,4774.17,878.15,book,0,0
+Brazil,6218.44,2990.46,laptop,2,5
+Germany,7075.74,3567.6,book,0,2
+Brazil,3065.61,4360.14,book,0,5
+South Africa,6659.43,2324.97,book,0,0
+China,1329.74,4986.88,chair,1,1
+France,6848.39,6076.81,book,0,2
+Mexico,1456.16,5547.02,laptop,2,3
+Mexico,3479.65,661.48,laptop,2,3
+Mexico,6479.72,3571.35,laptop,2,3
+France,1624.38,1092.54,book,0,2
+United States,2219.39,1997.5,laptop,2,3
+France,5916.89,6911.97,book,0,2
+Australia,5900.27,1340.47,chair,1,4
+France,5308.61,3692.66,laptop,2,2
+South Africa,5704.61,4479.83,book,0,0
+United States,4570.43,5036.27,laptop,2,3
+Mexico,2388.49,4093.68,laptop,2,3
+South Africa,3092.72,464.49,laptop,2,0
+South Africa,1861.98,2554.64,book,0,0
+Russia,7313.38,3816.9,book,0,2
+Japan,4875.44,979.92,laptop,2,1
+United States,3506.39,2714.14,book,0,3
+South Africa,3965.04,619.14,book,0,0
+Japan,7604.63,918.62,book,0,1
+Japan,1650.14,3019.69,book,0,1
+United States,4896.72,1275.92,book,0,3
+Russia,4294.17,4145.77,laptop,2,2
+Brazil,5085.91,4950.47,book,0,5
+China,635.83,5683.87,book,0,1
+Australia,7040.93,1720.99,laptop,2,4
+China,7490.89,1505.39,book,0,1
+France,4738.5,1090.15,book,0,2
+Mexico,5724.88,4600.44,book,0,3
+Australia,7418.75,5062.74,chair,1,4
+France,5804.29,608.47,book,0,2
+South Africa,1644.04,6579.0,book,0,0
+Mexico,4822.16,743.01,book,0,3
+Germany,5050.36,3972.56,book,0,2
+United States,3680.98,5079.8,book,0,3
+Australia,6023.33,6148.4,book,0,4
+Australia,7507.75,5112.97,book,0,4
+South Africa,7441.76,5691.41,book,0,0
+Brazil,3881.3,2640.37,book,0,5
+Japan,1349.29,5777.85,book,0,1
+Mexico,7886.31,928.76,book,0,3
+South Africa,6791.74,6305.79,chair,1,0
+Canada,1434.97,4014.11,book,0,3
+Russia,7406.31,5794.17,laptop,2,2
+Japan,7024.22,3385.3,book,0,1
+United States,4391.29,4647.61,chair,1,3
+Japan,4934.57,3874.26,chair,1,1
+Brazil,3492.52,5228.49,chair,1,5
+Japan,910.71,938.76,book,0,1
+United States,3013.98,798.32,book,0,3
+Brazil,6521.4,2030.88,book,0,5
+China,534.74,1452.99,book,0,1
+Australia,3001.24,6153.77,book,0,4
+Australia,3486.27,1846.81,laptop,2,4
+Russia,4530.47,6840.71,laptop,2,2
+France,7398.92,2623.51,book,0,2
+China,3097.59,1601.98,book,0,1
+China,3102.15,5612.01,laptop,2,1
+Mexico,6031.26,4747.47,laptop,2,3
+Japan,3891.63,3688.09,book,0,1
+Australia,2184.54,4065.4,laptop,2,4
+United States,3893.3,5146.73,laptop,2,3
+India,1556.43,1907.8,chair,1,1
+India,1822.9,6975.8,book,0,1
+Brazil,4237.76,6833.63,chair,1,5
+Australia,3641.94,4692.15,book,0,4
+Australia,7361.34,1716.98,chair,1,4
+Russia,3217.95,4889.51,laptop,2,2
+India,4854.41,876.51,book,0,1
+Australia,5241.98,602.31,book,0,4
+Russia,598.21,2100.71,book,0,2
+Japan,5476.53,3453.31,book,0,1
+Canada,1835.27,6130.6,book,0,3
+Mexico,7708.03,5199.32,book,0,3
+Germany,1614.97,5301.86,book,0,2
+China,3609.68,3208.26,chair,1,1
+France,1140.12,2683.17,book,0,2
+Brazil,7976.56,2848.86,chair,1,5
+Canada,4266.46,6918.49,chair,1,3
+Mexico,4965.39,664.72,book,0,3
+Mexico,1003.07,6122.41,laptop,2,3
+Mexico,6124.7,4219.26,chair,1,3
+Mexico,2074.29,3294.86,laptop,2,3
+India,7235.41,5186.7,book,0,1
+Russia,2038.55,3612.02,book,0,2
+China,1930.16,6164.59,laptop,2,1
+Australia,774.12,6344.63,chair,1,4
+Mexico,4040.5,3183.36,chair,1,3
+France,4736.31,2227.06,chair,1,2
+Australia,992.81,4309.51,chair,1,4
+United States,6316.46,6421.6,laptop,2,3
+United States,3899.67,1790.37,book,0,3
+France,4432.93,4511.58,laptop,2,2
+Russia,3805.72,4568.3,book,0,2
+France,3505.72,5238.55,chair,1,2
+India,4697.3,1268.35,book,0,1
+France,1664.3,5124.44,book,0,2
+Japan,1864.46,6399.61,book,0,1
+Australia,6963.39,1585.91,book,0,4
+Canada,7595.87,1967.79,laptop,2,3
+South Africa,3299.82,6811.21,book,0,0
+Russia,2530.59,1594.45,book,0,2
+France,5330.0,6038.94,book,0,2
+Brazil,3565.51,3649.03,book,0,5
+United States,690.4,2031.73,book,0,3
+Japan,1671.14,6146.95,chair,1,1
+China,5869.79,3339.01,book,0,1
+Mexico,5441.93,3797.79,chair,1,3
+South Africa,703.22,2770.94,laptop,2,0
+Russia,2164.79,4313.48,laptop,2,2
+Canada,2233.06,1479.26,book,0,3
+South Africa,5539.2,2981.14,book,0,0
+France,647.83,6798.12,book,0,2
+India,1280.81,2103.68,laptop,2,1
+United States,6499.37,4734.46,laptop,2,3
+United States,1839.08,2546.25,book,0,3
+China,5395.6,5504.92,book,0,1
+India,2286.37,1263.77,chair,1,1
+Mexico,1245.81,6800.82,book,0,3
+Australia,2323.79,3395.01,book,0,4
+Germany,5917.0,1957.93,book,0,2
+Japan,6917.72,885.08,laptop,2,1
+United States,6726.65,1520.4,chair,1,3
+Brazil,3478.88,3830.51,book,0,5
+United States,5510.64,2624.22,chair,1,3
+South Africa,2037.38,5870.63,book,0,0
+United States,2698.61,3243.86,chair,1,3
+Russia,7222.52,2041.51,chair,1,2
+United States,597.51,4473.16,chair,1,3
+Germany,1141.31,5064.73,chair,1,2
+Germany,2059.15,1502.48,chair,1,2
+Mexico,698.99,1506.29,chair,1,3
+Canada,1860.77,642.03,laptop,2,3
+Australia,4872.81,5260.25,book,0,4
+Brazil,3660.68,4781.11,book,0,5
+United States,7195.04,3532.56,book,0,3
+United States,6630.83,5971.52,chair,1,3
+Japan,3063.63,5717.42,chair,1,1
+Germany,2445.68,4263.34,chair,1,2
+Brazil,3347.69,6130.59,chair,1,5
+Mexico,4927.21,1758.55,chair,1,3
+China,2510.48,1138.67,book,0,1
+Canada,5181.12,2180.35,chair,1,3
+Australia,3570.59,776.77,chair,1,4
+India,4640.35,3905.72,chair,1,1
+Australia,3770.95,6581.6,laptop,2,4
+Russia,2708.49,659.67,chair,1,2
+South Africa,7613.4,1205.93,chair,1,0
+Russia,6227.04,3384.51,laptop,2,2
+United States,1550.85,6563.58,chair,1,3
+Canada,7013.51,2486.63,chair,1,3
+South Africa,4155.73,3747.75,chair,1,0
+Brazil,7209.14,674.38,chair,1,5
+India,6498.91,1379.07,laptop,2,1
+Germany,3689.1,6911.76,chair,1,2
+Canada,668.52,6769.78,chair,1,3
+Canada,2515.08,432.6,book,0,3
+Russia,4562.26,6681.96,chair,1,2
+United States,5251.09,4618.19,chair,1,3
+France,2434.16,6128.26,chair,1,2
+Mexico,1545.17,3401.28,chair,1,3
+Russia,6761.98,3802.93,chair,1,2
+Canada,7883.02,3626.39,chair,1,3
+Japan,4442.68,4801.3,chair,1,1
+India,1787.59,1321.7,chair,1,1
+Mexico,2542.3,597.83,chair,1,3
+Russia,637.93,2432.34,chair,1,2
+India,7357.24,5050.89,chair,1,1
+Japan,1383.13,1732.23,chair,1,1
+China,4823.87,4844.65,chair,1,1
+Japan,2555.41,6801.42,chair,1,1
+Japan,4656.34,1019.74,chair,1,1
+India,5385.65,4839.17,chair,1,1
+Australia,6723.06,3328.75,chair,1,4
+India,2048.16,6129.74,chair,1,1
+France,582.47,1569.19,chair,1,2
+United States,1526.64,4971.33,chair,1,3
+South Africa,7250.14,5931.56,laptop,2,0
+Australia,7054.18,6634.45,chair,1,4
+Germany,4980.6,4909.44,chair,1,2
+South Africa,5003.88,3681.35,chair,1,0
+United States,5487.78,4477.79,laptop,2,3
+Russia,1815.28,6134.77,chair,1,2
+Mexico,7358.09,4166.02,chair,1,3
+France,3640.78,600.55,chair,1,2
+France,3373.54,6544.26,laptop,2,2
+Germany,4391.88,4950.88,chair,1,2
+Australia,852.24,4864.99,chair,1,4
+China,1747.13,1823.46,book,0,1
+Japan,6035.25,4748.64,chair,1,1
+Australia,1120.99,2999.51,book,0,4
+Mexico,5023.64,4698.14,chair,1,3
+China,2340.12,1103.51,laptop,2,1
+France,3419.72,4741.78,chair,1,2
+India,2665.2,6996.13,chair,1,1
+Mexico,3167.55,718.2,chair,1,3
+United States,5892.84,6849.35,chair,1,3
+Germany,2728.41,3085.59,chair,1,2
+United States,4748.03,6146.97,chair,1,3
+Mexico,4070.38,5563.74,chair,1,3
+Brazil,5477.53,4142.31,chair,1,5
+Brazil,7526.22,5273.76,chair,1,5
+Russia,5994.29,6198.2,chair,1,2
+Australia,2112.05,3067.33,chair,1,4
+France,733.87,2558.42,chair,1,2
+France,2466.98,4806.12,chair,1,2
+Japan,4963.08,5731.78,chair,1,1
+Japan,885.69,5431.08,chair,1,1
+Japan,4222.75,5665.57,chair,1,1
+India,4976.32,3274.85,chair,1,1
+South Africa,3006.83,5797.71,chair,1,0
+Canada,6281.84,1193.38,chair,1,3
+South Africa,1299.49,3993.63,chair,1,0
+United States,1063.53,438.01,chair,1,3
+South Africa,5961.42,2542.27,chair,1,0
+India,4216.18,2818.65,chair,1,1
+Russia,5663.02,3014.74,chair,1,2
+United States,3761.21,4990.08,chair,1,3
+South Africa,2348.02,2964.48,chair,1,0
+India,6643.27,3361.38,chair,1,1
+Canada,6495.62,1967.79,chair,1,3
+South Africa,5710.22,2863.46,chair,1,0
+India,2541.09,1899.98,laptop,2,1
+Japan,4926.73,883.09,laptop,2,1
+France,3207.3,4382.76,book,0,2
+Japan,1186.87,4810.2,book,0,1
+France,7379.85,4488.64,chair,1,2
+Germany,1526.14,3459.06,laptop,2,2
+Germany,7626.78,2906.59,chair,1,2
+Germany,3845.04,6098.0,book,0,2
+Canada,1888.5,3825.94,chair,1,3
+Japan,4564.26,3562.6,chair,1,1
+France,7047.09,569.24,book,0,2
+India,5991.69,2652.24,laptop,2,1
+United States,6549.21,2909.29,book,0,3
+India,5440.88,3032.23,chair,1,1
+United States,5692.07,4229.14,chair,1,3
+Brazil,6868.97,3921.78,chair,1,5
+India,2372.51,4412.17,laptop,2,1
+South Africa,4170.69,5448.23,chair,1,0
+South Africa,2159.07,5765.71,book,0,0
+Australia,7907.51,5139.61,chair,1,4
+Japan,7580.45,6706.46,chair,1,1
+United States,795.7,520.34,chair,1,3
+United States,5791.81,1692.13,laptop,2,3
+Mexico,7439.36,449.91,chair,1,3
+Russia,1854.32,4673.33,chair,1,2
+Japan,4759.59,6327.0,chair,1,1
+Canada,7366.16,2006.98,chair,1,3
+Australia,754.59,6518.43,chair,1,4
+Canada,5730.65,797.76,chair,1,3
+Canada,2730.12,6567.28,chair,1,3
+Canada,7432.97,2720.71,book,0,3
+Japan,7782.94,1069.38,laptop,2,1
+Canada,7582.0,3606.75,chair,1,3
+South Africa,4056.61,2094.73,laptop,2,0
+Russia,6965.32,2280.16,laptop,2,2
+Russia,6834.12,2428.11,book,0,2
+Germany,2893.25,5699.97,chair,1,2
+Brazil,6716.87,3958.46,laptop,2,5
+United States,777.56,2454.63,laptop,2,3
+Mexico,4972.02,4428.2,chair,1,3
+United States,2225.07,5126.59,laptop,2,3
+Brazil,1404.25,2199.32,laptop,2,5
+Mexico,1077.15,3129.42,laptop,2,3
+Japan,5722.17,1204.45,laptop,2,1
+India,3049.06,1595.59,laptop,2,1
+Japan,5935.75,4895.38,laptop,2,1
+United States,990.17,1597.49,laptop,2,3
+United States,2864.68,3866.08,chair,1,3
+Mexico,4546.18,5079.71,laptop,2,3
+Mexico,6430.42,1105.39,laptop,2,3
+Brazil,2890.64,4144.26,laptop,2,5
+Canada,5194.19,2093.31,laptop,2,3
+Japan,7144.83,6755.32,laptop,2,1
+Mexico,5118.97,3591.4,laptop,2,3
+France,2247.2,5719.55,chair,1,2
+Brazil,683.01,4031.5,laptop,2,5
+South Africa,7025.74,686.52,laptop,2,0
+United States,659.52,4578.8,chair,1,3
+Brazil,7060.26,6679.26,laptop,2,5
+Japan,4467.03,4370.64,laptop,2,1
+Mexico,7543.01,5806.65,laptop,2,3
+United States,6490.87,6235.76,book,0,3
+India,7984.51,1905.33,laptop,2,1
+Brazil,3130.34,1799.5,laptop,2,5
+Australia,6253.91,4432.47,laptop,2,4
+United States,3514.48,3112.79,laptop,2,3
+Japan,4099.07,5943.08,book,0,1
+Germany,5206.29,6340.15,laptop,2,2
+France,7052.58,2732.58,chair,1,2
+China,7880.63,1963.35,laptop,2,1
+Canada,6262.05,5551.47,laptop,2,3
+China,3633.25,2213.72,laptop,2,1
+Japan,3660.18,5829.25,laptop,2,1
+South Africa,6031.87,3196.67,laptop,2,0
+South Africa,2290.83,4805.83,laptop,2,0
+Germany,1328.56,1030.53,laptop,2,2
+Canada,3159.67,4517.47,chair,1,3
+Australia,2654.29,3381.67,laptop,2,4
+Germany,2722.31,4271.62,laptop,2,2
+Russia,2252.06,1508.89,laptop,2,2
+China,815.7,5263.37,book,0,1
+Germany,634.05,6094.46,laptop,2,2
+China,7907.92,1830.48,laptop,2,1
+United States,3708.3,1031.72,laptop,2,3
+South Africa,3382.45,556.01,laptop,2,0
+United States,5597.35,4637.01,laptop,2,3
+France,2136.9,4406.82,book,0,2
+Russia,7624.71,4008.2,laptop,2,2
+Canada,6397.59,1930.85,laptop,2,3
+Australia,1170.58,2979.98,book,0,4
+China,3631.86,4323.54,laptop,2,1
+Australia,7093.39,3678.66,book,0,4
+China,7585.49,6919.38,laptop,2,1
+Japan,4005.51,1300.5,laptop,2,1
+Germany,5100.59,4987.95,laptop,2,2
+France,1752.75,3068.5,book,0,2
+South Africa,7933.76,3226.12,laptop,2,0
+Mexico,2237.54,5136.15,laptop,2,3
+China,7570.49,4970.08,laptop,2,1
+Australia,5372.35,6942.29,laptop,2,4
+France,5058.03,1247.4,laptop,2,2
+India,4345.16,1087.12,laptop,2,1
+India,2230.02,5180.64,laptop,2,1
+United States,1823.96,4217.35,laptop,2,3
+South Africa,2153.65,2209.46,laptop,2,0
+Mexico,1898.29,924.17,laptop,2,3
+Japan,6346.88,965.34,laptop,2,1
+Australia,3125.94,6301.66,laptop,2,4
+Mexico,933.82,1666.32,book,0,3
+Germany,7768.27,2534.25,book,0,2
+Germany,7128.39,1895.93,laptop,2,2
+Australia,7458.14,2742.98,book,0,4
+Canada,7961.81,858.2,laptop,2,3
+Japan,1804.21,3825.79,chair,1,1
+France,3471.82,846.24,laptop,2,2
+China,6186.79,5682.35,laptop,2,1
+Canada,5720.15,1942.5,laptop,2,3
+China,1654.22,3964.08,chair,1,1
+China,6618.75,6208.52,laptop,2,1
+Canada,2183.3,4695.79,chair,1,3
+United States,2178.63,3917.52,laptop,2,3
+India,4527.31,2540.6,chair,1,1
+China,4947.05,2597.81,book,0,1
+Canada,4850.65,4818.61,laptop,2,3
+Canada,1186.15,6961.32,laptop,2,3
+Russia,7080.96,4768.14,laptop,2,2
+Mexico,2492.0,4081.37,book,0,3
+Brazil,1471.36,5222.29,laptop,2,5
+United States,7165.61,3470.36,book,0,3
+South Africa,7667.39,796.94,laptop,2,0
+Brazil,6965.96,4111.16,book,0,5
+Mexico,6571.37,6720.33,laptop,2,3
+Mexico,5414.31,1557.0,laptop,2,3
+Mexico,4631.43,4954.03,laptop,2,3
+Brazil,1152.4,1726.16,chair,1,5
+Australia,3563.4,3936.46,chair,1,4
+India,3295.16,1038.06,laptop,2,1
+Canada,2448.15,3372.45,laptop,2,3
+India,5925.65,5390.68,laptop,2,1
+Japan,4219.07,2693.97,laptop,2,1
+Australia,1107.85,4788.42,chair,1,4
+South Africa,2151.37,5649.97,chair,1,0
+India,5624.44,6519.37,laptop,2,1
+Germany,1070.98,1948.64,laptop,2,2
+Mexico,6884.05,3035.49,laptop,2,3
+China,4213.6,1405.95,laptop,2,1
+Japan,4104.4,6950.39,laptop,2,1
+United States,4943.06,6518.21,laptop,2,3
+South Africa,6685.11,3963.72,laptop,2,0
+Japan,3108.57,5957.42,laptop,2,1
+Mexico,5585.12,3838.32,laptop,2,3
+China,4742.99,4515.67,laptop,2,1
+Australia,2502.71,988.22,book,0,4
+China,7089.72,5384.78,laptop,2,1
+Brazil,6480.7,1242.91,laptop,2,5
+China,5438.39,5852.05,laptop,2,1
+Brazil,6879.36,5561.39,laptop,2,5
+Australia,7004.71,5077.72,laptop,2,4
+France,5812.72,638.66,laptop,2,2
+Mexico,6777.6,2400.65,laptop,2,3
+Brazil,5731.04,2136.54,chair,1,5
+United States,5601.06,2776.9,laptop,2,3
+China,5139.59,978.44,laptop,2,1
+China,6145.37,6583.92,chair,1,1
+United States,1689.54,4055.09,laptop,2,3
+Germany,7106.53,2416.46,laptop,2,2
+Canada,7038.83,3020.08,laptop,2,3
+France,719.35,3351.54,laptop,2,2
+South Africa,6693.63,4363.92,laptop,2,0
+Brazil,1466.52,3803.48,laptop,2,5
+United States,3013.39,6467.99,laptop,2,3
+Australia,6076.31,3679.96,laptop,2,4
+Brazil,1705.7,6948.24,laptop,2,5
+Canada,6634.75,6019.4,laptop,2,3
+Australia,6741.01,1776.17,laptop,2,4
+Japan,4306.01,6541.93,laptop,2,1
+Mexico,547.89,1168.02,laptop,2,3
+China,2652.79,5795.17,laptop,2,1
+Japan,5126.95,2912.11,laptop,2,1
+Brazil,7858.9,6194.63,laptop,2,5
+Canada,5238.6,6129.17,laptop,2,3
+France,2448.53,5719.11,laptop,2,2
+Mexico,5255.04,5614.2,chair,1,3
+Brazil,4549.89,2410.88,book,0,5
+United States,6348.84,934.07,chair,1,3
