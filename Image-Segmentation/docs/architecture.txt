@@ -1,0 +1,61 @@
+U-NET ARCHITECTURE – STRUCTURE OVERVIEW
+
+------------------------------------------------
+INPUT
+------------------------------------------------
+- Input size: 256 x 256 x 3
+- Format: Normalized RGB image
+- Source: Images taken from the CARLA simulator (dataA folder of the Lyft Udacity dataset)
+
+------------------------------------------------
+ENCODER (DOWN SAMPLING)
+------------------------------------------------
+Block 1:
+  - Two 3x3 Conv2D layers with 32 filters each
+  - Each followed by BatchNorm and ReLU activation
+  - 2x2 MaxPooling to reduce spatial size
+  - Output saved for skip connection
+
+Block 2:
+  - Same structure as above, but with 64 filters
+  - Followed by MaxPooling and skip connection
+
+Block 3:
+  - Same as above with 128 filters
+  - Followed by MaxPooling and skip connection
+
+Block 4 (Bottleneck):
+  - Two Conv2D layers with 256 filters
+  - No pooling here
+  - Acts as the deepest layer in the network
+
+------------------------------------------------
+DECODER (UP SAMPLING)
+------------------------------------------------
+Block 5:
+  - Transposed Conv2D (stride 2) to upsample
+  - Cropped to align with encoder output
+  - Concatenated with encoder’s skip connection (Block 3)
+  - Followed by two Conv2D layers with 256 filters
+
+Block 6:
+  - Transposed Conv2D (stride 2), concat with Block 2’s output
+  - Two Conv2D layers with 128 filters
+
+Block 7:
+  - Transposed Conv2D (stride 2), concat with Block 1’s output
+  - Two Conv2D layers with 64 filters
+
+Block 8:
+  - Final upsampling and refinement with two Conv2D layers using 32 filters
+
+------------------------------------------------
+OUTPUT LAYER
+------------------------------------------------
+- 1x1 Conv2D layer with 13 filters (number of classes)
+- Activation: Sigmoid
+- Output shape: 256 x 256 x 13 (pixel-wise predictions for each class)
+
+------------------------------------------------
+TOTAL CONVOLUTIONAL LAYERS USED: 23
+------------------------------------------------

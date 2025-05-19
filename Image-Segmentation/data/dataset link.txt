@@ -1,0 +1,11 @@
+Dataset: Furniture and Essentials Image Dataset (Kaggle)
+
+Link: https://www.kaggle.com/datasets/kumaresanmanickavelu/lyft-udacity-challenge
+
+Direct Download Link: https://storage.googleapis.com/kaggle-data-sets/6204978/10091468/bundle/archive.zip?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20250515%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250515T123717Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=0426cdbb494ccb9a6c54b4ae83637cc2daa4566119062e532d6c2cb5e0f901e0c0724fb93457e9be4f7baa3aba0807ee4371f509f4d4082b22ade87818057c38884f7cd4d4dd3f2e88eced5f6b7a21fc4b845f372282ce7d6ce630ad1566ef17a9890e4abc70117bcdc13619705b7b9ed8e0905f1064bd62c99dd487515ee3ff86a2ad79942dc0ed52921e8d61751ce8eae807654e11076117f0b12e973ec8a2155aba49bd21800d58afde4cd09f739213de8160b5f84bf26ea11603f6711f2ecc825702d04c69fb72f7d5607a9214bcc6f481e058dc04482409c0d7ee12528ce4b8ffd1c16eb2e752ceba5f9d4c00af78dade657dfb523e3afb4f9d22ee8d64
+
+
+Note:
+For this semantic segmentation task, we utilize the Lyft Udacity Self-Driving Car Dataset. Although the original dataset is split across five directories (dataA to dataE), we use only dataA for faster experimentation and reduced training time.
+
+Images and their corresponding segmentation masks from dataA are loaded, preprocessed, and formatted into a dataset suitable for training the U-Net model.
